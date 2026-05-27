@@ -1,0 +1,17 @@
+{
+  "skills": [
+    {
+      "name": "figma-use",
+      "version": "0.11.0",
+      "path": "skills/figma-use",
+      "description": "Control Figma via CLI: create shapes, frames, text, components, set styles, layout, variables, and export images.",
+      "tags": [
+        "figma",
+        "design",
+        "cli",
+        "automation",
+        "agent-skill"
+      ]
+    }
+  ]
+}

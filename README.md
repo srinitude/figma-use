@@ -1,5 +1,7 @@
 # figma-use
 
+[![skills.sh](https://skills.sh/b/srinitude/figma-use)](https://skills.sh/s/srinitude/figma-use)
+
 CLI for Figma. Control it from the terminal — with commands or JSX.
 
 ```bash
@@ -500,7 +502,7 @@ CLI arguments override config values.
 
 ## For AI Agents
 
-Includes [SKILL.md](./SKILL.md) — a reference for Claude Code, Cursor, and other agents.
+Includes [SKILL.md](./skills/figma-use/SKILL.md) — a reference for Claude Code, Cursor, and other agents.
 
 ## How It Works
 

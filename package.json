@@ -29,7 +29,7 @@
     "bin",
     "CHANGELOG.md",
     "README.md",
-    "SKILL.md",
+    "skills/",
     "dist/cli",
     "packages/plugin/src",
     "packages/cli/src/color.ts",
